@@ -9,9 +9,10 @@ The factorial of a digit `d` is written as `d!`, and it means the product of all
 ## How to compile
 
 Inside the folder that contain the file enter the commands line
-
+```
 $ gcc -o factorialsum digit-factorial-sum.c
 $ ./factorialsum
+```
 ---
 
 ## 🇫🇷 Qu'est-ce qu'une somme factorielle des chiffres ?
@@ -23,9 +24,10 @@ La factorielle d’un chiffre `d`, notée `d!`, est le produit de tous les entie
 ## Comment compiler
 
 A l'intérieur du dossier contenant le fichier.c entré les ligne de commandes 
-
+```
 $ gcc -o factorialsum digit-factorial-sum.c
 $ ./factorialsum
+```
 ---
 
 
